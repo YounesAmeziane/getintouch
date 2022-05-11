@@ -8,7 +8,6 @@
 :root{
     --var-fcolor: rgb(160, 109, 0);
 }
-body{height: 1000vh;}
 .container{
     background: url(../pics/me.jpg);
     background-size: cover;
